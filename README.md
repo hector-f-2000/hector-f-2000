@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hola 👋
 
-<!--
-**hector-f-2000/hector-f-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Héctor Ferrada, soy de Chile y soy Desarrollador BackEnd.
 
-Here are some ideas to get you started:
+* Actualmente trabajo en proyectos personales utilizando Python (Django).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Algunas de mis habilidades
+
+* Principalmente desarrollo en Python (Django).
+* Conocimientos sobre FrontEnd.
+* Capacidad de adaptación en proyectos de equipos multidiciplinarios
+* Superación de trabajos con mucha presión
+* Capaz de asumir nuevos desafios, comuniación efectiva.
+
+## Contacto
+
+Encuentra más información visitando [mi portafolio](https://hector-f-2000.github.io)
